@@ -1,2 +1,2 @@
-install all the packages with are listed in requirements.txt file
+Install all the packages with are listed in requirements.txt file
 
